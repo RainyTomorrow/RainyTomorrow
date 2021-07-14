@@ -1,5 +1,5 @@
-### <h1 align="center">Hi there👋, I'm RainyTomorrow</h1>
-<h3 align="center">I like to code and bring better designs to life</h3>
+### <h1 align="left">Hi there👋, I'm RainyTomorrow</h1>
+<h3 align="left">I like to code and bring better designs to life</h3>
 
 - 🔭 I’m currently working on some stuff
 - 🌱 I’m currently learning Pyhon
