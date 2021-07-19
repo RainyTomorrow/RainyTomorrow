@@ -15,6 +15,8 @@
  <a href="https://linkedin.com/in/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:dancefloormode@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
+![](https://visitor-badge.laobi.icu/badge?page_id=RainyTomorrow.RainyTomorrow)
+[![Github](https://img.shields.io/github/followers/RainyTomorrow?label=Follow&style=social)](https://github.com/CharalambosIoannou)
 
 ## 🧰 Languages and Tools:
 <p align="left">
@@ -27,13 +29,12 @@
 <p align="left"> <a href="https://twitter.com/RainyTomorrow" target="blank"><img src="https://img.shields.io/twitter/follow/__?logo=twitter&style=for-the-badge" alt="RainyTomorrow"/></a></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RainyTomorrow&show_icons=true&locale=en" alt="RainyTomorrow" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RainyTomorrow&theme=vue-dark&show_icons=true&locale=en" alt="RainyTomorrow" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RainyTomorrow&show_icons=true&locale=en&layout=compact" alt="RainyTomorrow" /></p>
-
-
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RainyTomorrow&theme=vue-dark&show_icons=true&locale=en&layout=compact" alt="RainyTomorrow" /></p>
 
 <br />
+
+
 
 
