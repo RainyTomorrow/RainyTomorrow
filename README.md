@@ -1,6 +1,9 @@
 ### <h1 align="left">Hi there👋, I'm RainyTomorrow</h1>
 <h3 align="left">I like to code and bring better designs to life</h3>
 
+<p align="left"><img src=https://visitor-badge.laobi.icu/badge?page_id=RainyTomorrow.RainyTomorrow/> </p>
+<img src=https://img.shields.io/github/followers/RainyTomorrow?label=Follow&style=social> 
+
 - 🔭 I’m currently working on some stuff
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on some stuff
@@ -15,8 +18,7 @@
  <a href="https://linkedin.com/in/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:dancefloormode@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
-![](https://visitor-badge.laobi.icu/badge?page_id=RainyTomorrow.RainyTomorrow)
-[![Github](https://img.shields.io/github/followers/RainyTomorrow?label=Follow&style=social)](https://github.com/CharalambosIoannou)
+
 
 ## 🧰 Languages and Tools:
 <p align="left">
