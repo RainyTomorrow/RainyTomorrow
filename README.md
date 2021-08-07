@@ -15,6 +15,7 @@
 - 😄 Pronouns: any
 - ⚡ Fun fact: I love my dog
 
+Watch my contribution graph eaten by a snake
 ![snake gif](https://github.com/RainyTomorrow/.github/blob/output/github-contribution-grid-snake.gif)
 
 <p align="left">
