@@ -15,7 +15,7 @@
 - 😄 Pronouns: any
 - ⚡ Fun fact: I love my dog
 
-![snake gif](https://github.com/RainyTomorrow/RainyTomorrow/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/RainyTomorrow/RainyTomorrow/blob/output/blank1.yml.gif)
 
 <p align="left">
  <a href="https://rainytomorrow.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
