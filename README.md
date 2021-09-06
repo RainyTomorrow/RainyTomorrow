@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/RainyTomorrow" target="blank"><img src="https://img.shields.io/twitter/follow/__?logo=twitter&style=for-the-badge" alt="RainyTomorrow"/></a></p>
 
 - 🔭 I’m currently working on some stuff
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning some basics of Python, JS, C#
 - 👯 I’m looking to collaborate on some stuff
 - 🤔 I’m looking for help with some stuff
 - 💬 Ask me about some stuff
