@@ -13,7 +13,7 @@
 - 💬 Ask me about some stuff
 - 📫 How to reach me: some stuff
 - 😄 Pronouns: any
-- ⚡ Fun fact: I love my dog (I have no dog)
+- ⚡ Fun fact: I am almost homeless (not so fun, right)
 
 Watch my contribution graph eaten by a snake
 ![snake gif](https://github.com/RainyTomorrow/.github/blob/output/github-contribution-grid-snake.gif)
