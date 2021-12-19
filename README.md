@@ -1,4 +1,4 @@
-### <h1 align="left">Hi there👋, I'm Master of Social Science, and 1st course PhD student, currently learning how to code</h1>
+### <h1 align="left">Hi there👋, I'm currently learning how to code</h1>
 <h3 align="left">I like to code and bring better designs to life</h3>
 
 <p align="left"><img src=https://visitor-badge.laobi.icu/badge?page_id=RainyTomorrow.RainyTomorrow/> </p>
@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/RainyTomorrow" target="blank"><img src="https://img.shields.io/twitter/follow/__?logo=twitter&style=for-the-badge" alt="RainyTomorrow"/></a></p>
 
 - 🔭 I’m currently working on some stuff
-- 🌱 I’m currently learning some basics of Python, Java, JS, C#
+- 🌱 I’m currently learning some basics of Python
 - 👯 I’m looking to collaborate on any stuff
 - 🤔 I’m looking for help with some stuff
 - 💬 Ask me about some stuff
