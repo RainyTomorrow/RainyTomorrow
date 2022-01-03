@@ -1,19 +1,12 @@
-### <h1 align="left">Hi there👋, I'm currently learning how to code</h1>
+### <h1 align="left">Hi there👋, I'm learning how to code</h1>
 <h3 align="left">I like to code and bring better designs to life</h3>
 
 <p align="left"><img src=https://visitor-badge.laobi.icu/badge?page_id=RainyTomorrow.RainyTomorrow/> </p>
 <img src=https://img.shields.io/github/followers/RainyTomorrow?label=Follow&style=social> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RainyTomorrow&label=Profile%20views&color=899FBD&style=flat" alt="RainyTomorrow" /> </p>
-<p align="left"> <a href="https://twitter.com/RainyTomorrow" target="blank"><img src="https://img.shields.io/twitter/follow/__?logo=twitter&style=for-the-badge" alt="RainyTomorrow"/></a></p>
 
 - 🔭 I’m currently working on some stuff
-- 🌱 I’m currently learning some basics of Python
-- 👯 I’m looking to collaborate on any stuff
-- 🤔 I’m looking for help with some stuff
-- 💬 Ask me about some stuff
-- 📫 How to reach me: some stuff
-- 😄 Pronouns: any
-- ⚡ Fun fact: I am almost homeless (not so fun, right)
+- 🌱 I’m currently learning some basics of FP
 
 Watch my contribution graph eaten by a snake
 ![snake gif](https://github.com/RainyTomorrow/.github/blob/output/github-contribution-grid-snake.gif)
