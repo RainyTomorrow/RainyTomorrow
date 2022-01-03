@@ -1,13 +1,13 @@
 ### <h1 align="left">Hi there👋, glad to see you reading this</h1>
+<h3 align="left">I have no idea how to code, but sitting and randomly tapping keyboard for infinite times is relaxing</h3>
 <p align="left"><img src=https://visitor-badge.laobi.icu/badge?page_id=RainyTomorrow.RainyTomorrow/> 
 <img src=https://img.shields.io/github/followers/RainyTomorrow?label=Follow&style=social> 
 <img src="https://komarev.com/ghpvc/?username=RainyTomorrow&label=Profile%20views&color=899FBD&style=flat" alt="RainyTomorrow" /> </p>
 
-<h3 align="left">I have no idea how to code, but sitting and randomly tapping keyboard for infinite times is relaxing</h3><br>
 - 🔭 I’m currently working on some stuff <br>
 - 🌱 I’m currently learning some basics of FP<br>
 
-- ?? Watch my contribution graph eaten by a snake
+Watch my contribution graph eaten by a snake
 ![snake gif](https://github.com/RainyTomorrow/.github/blob/output/github-contribution-grid-snake.gif)
 
 ## 🧰 Languages and Tools:
