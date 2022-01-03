@@ -1,5 +1,5 @@
 ### <h1 align="left">Hi there👋, I'm learning how to code</h1>
-<h3 align="left">I like to code and bring better designs to life</h3>
+<h3 align="left">Passionate about twitter</h3>
 
 <p align="left"><img src=https://visitor-badge.laobi.icu/badge?page_id=RainyTomorrow.RainyTomorrow/> </p>
 <img src=https://img.shields.io/github/followers/RainyTomorrow?label=Follow&style=social> 
