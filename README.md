@@ -1,5 +1,5 @@
 ### <h1 align="left">Hi there👋, glad to see you reading this</h1>
-<h3 align="left">And I have no idea how to code, but trying some stuff</h3>
+<h3 align="left">I have no idea how to code, but sitting and randomly tapping keyboard for infinite times is relaxing</h3>
 
 <p align="left"><img src=https://visitor-badge.laobi.icu/badge?page_id=RainyTomorrow.RainyTomorrow/> </p>
 <img src=https://img.shields.io/github/followers/RainyTomorrow?label=Follow&style=social> 
