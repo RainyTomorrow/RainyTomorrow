@@ -25,9 +25,6 @@ Watch my contribution graph eaten by a snake
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RainyTomorrow&theme=vue-dark&show_icons=true&locale=en&layout=compact" alt="RainyTomorrow" /></p>
 
 <br />
-
-<p align="left">
-  <a href="mailto:so.flourish@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 
