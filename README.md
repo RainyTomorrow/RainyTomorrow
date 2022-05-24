@@ -65,12 +65,10 @@ Glad to see you're reading readme</h1>
                                                                                                                                             
 ### :stars: Stats:                                                                                                                   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rainytomorrow&theme=vue-dark)](https://git.io/streak-stats)
-                                                                                                                                             
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RainyTomorrow&theme=vue-dark&show_icons=true&locale=en" alt="RainyTomorrow" /></p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RainyTomorrow&theme=vue-dark&show_icons=true&locale=en&layout=compact" alt="RainyTomorrow" /></p>
 
-<br />
+<br/>
 </p>
 
 
