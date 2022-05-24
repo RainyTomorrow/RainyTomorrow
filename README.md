@@ -1,11 +1,17 @@
-### <h1 align="left">Hi there👋 I'm text, glad to see you're reading me</h1>
-<h3 align="left">I have no idea how to code, but sitting and randomly tapping keyboard for infinite times is relaxing</h3>
-<p align="left"><img src=https://visitor-badge.laobi.icu/badge?page_id=RainyTomorrow.RainyTomorrow/> 
+### <h1 align="left">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+Glad to see you're reading readme</h1>
+<h3 align="left">I have no idea how to code, but sitting and randomly tapping keyboard for infinite times makes me relax</h3>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<p align="center"><img src=https://visitor-badge.laobi.icu/badge?page_id=RainyTomorrow.RainyTomorrow/> 
 <img src=https://img.shields.io/github/followers/RainyTomorrow?label=Follow&style=social> 
 <img src="https://komarev.com/ghpvc/?username=RainyTomorrow&label=Profile%20views&color=899FBD&style=flat" alt="RainyTomorrow" /> </p>
 
 - 🔭 I’m currently working on some stuff <br>
-- 🌱 I’m currently learning some basics of CS, OOP and math<br>
+- 🌱 I’m currently learning some basics of CS, OOP and math
+- 😴 I'm enthusiastic sleep lover, first sleep, then work <br>
 
 Watch my contribution graph eaten by a snake
 ![snake gif](https://github.com/RainyTomorrow/.github/blob/output/github-contribution-grid-snake.gif)
