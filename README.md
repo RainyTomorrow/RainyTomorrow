@@ -3,7 +3,7 @@ Glad to see you're reading readme</h1>
 <h3 align="left">I have no idea how to code, but sitting and randomly tapping keyboard for infinite times makes me relax</h3>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">                                                                                        
 </div>
 <p align="center"><img src=https://visitor-badge.laobi.icu/badge?page_id=RainyTomorrow.RainyTomorrow/> 
 <img src=https://img.shields.io/github/followers/RainyTomorrow?label=Follow&style=social> 
@@ -62,7 +62,8 @@ Glad to see you're reading readme</h1>
    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="fastapi" alt="fastapi" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg" title="julia" alt="julia" width="40" height="40"/>&nbsp;
-
+                                                                                                                                             [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rainytomorrow&theme=dark&background=000000)](https://git.io/streak-stats)
+                                                                                                                                             
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RainyTomorrow&theme=vue-dark&show_icons=true&locale=en" alt="RainyTomorrow" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RainyTomorrow&theme=vue-dark&show_icons=true&locale=en&layout=compact" alt="RainyTomorrow" /></p>
