@@ -15,10 +15,10 @@ Glad to see you're reading readme</h1>
 
 ---
 ### :woman_technologist: About Me :
-<h3 align="left">I am a Newbie Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Central Asia.</h3>
-- 🔭 I’m currently working on some stuff.<br>
-- 🌱 I’m currently learning some basics of CS, OOP and Math!<br>
-- 😴 I'm enthusiastic sleep lover, first sleep – then work! <br>
+<h3 align="left">I am a Newbie Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with graphic design background.</h3>
+- 🔭 currently working on some stuff.<br>
+- 🌱 currently learning some basics of CS, OOP and Math.<br>
+- 😴 enthusiastic sleep lover, first sleep – then work! <br>
 <br>
 
 <b>Watch my contribution graph eaten by a snake:</b>
@@ -61,6 +61,7 @@ Glad to see you're reading readme</h1>
    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="fastapi" alt="fastapi" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg" title="julia" alt="julia" width="40" height="40"/>&nbsp;
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RainyTomorrow&theme=vue-dark&show_icons=true&locale=en" alt="RainyTomorrow" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RainyTomorrow&theme=vue-dark&show_icons=true&locale=en&layout=compact" alt="RainyTomorrow" /></p>
