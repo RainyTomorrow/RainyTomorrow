@@ -63,7 +63,7 @@ Glad to see you're reading readme</h1>
    <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="fastapi" alt="fastapi" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg" title="julia" alt="julia" width="40" height="40"/>&nbsp;
                                                                                                                                             
-### :sparkles: Stats:                                                                                                                   
+### :stars: Stats:                                                                                                                   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rainytomorrow&theme=vue-dark)](https://git.io/streak-stats)
                                                                                                                                              
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RainyTomorrow&theme=vue-dark&show_icons=true&locale=en" alt="RainyTomorrow" /></p>
