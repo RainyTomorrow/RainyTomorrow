@@ -1,6 +1,6 @@
 ### <h1 align="left">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-Glad to see you're reading readme</h1>
-<h3 align="left">I have no idea how to code, but sitting and randomly tapping keyboard for infinite times makes me relax</h3>
+Glad to see you're reading me</h1>
+<h3 align="left">I have no idea how to code, but sitting and randomly tapping keyboard for infinite times makes me relaxed</h3>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">                                                                                        
