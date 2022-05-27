@@ -16,8 +16,8 @@ Glad to see you're reading me</h1>
 ---
 ### :woman_technologist: About Me :
 <h3 align="left">I am a Newbie Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with graphic design background.</h3>
-- 🔭 currently working on some stuff.<br>
-- 🌱 currently learning some basics of CS, OOP and Math.<br>
+- 🔭 currently working on some stuff;<br>
+- 🌱 currently learning some basics of CS, OOP and Math;<br>
 - 😴 enthusiastic sleep lover, first sleep – then work! <br>
 <br>
 
