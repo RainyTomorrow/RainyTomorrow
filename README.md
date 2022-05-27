@@ -64,7 +64,7 @@ Glad to see you're reading me</h1>
    <img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg" title="julia" alt="julia" width="40" height="40"/>&nbsp;
                                                                                                                                             
 ### :stars: Stats:                                                                                                                   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rainytomorrow)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rainytomorrow&theme=vue-dark)](https://git.io/streak-stats)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RainyTomorrow&theme=vue-dark&show_icons=true&locale=en" alt="RainyTomorrow" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RainyTomorrow&theme=vue-dark&show_icons=true&locale=en&layout=compact" alt="RainyTomorrow" /></p>
 
