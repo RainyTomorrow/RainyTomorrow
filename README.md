@@ -67,7 +67,6 @@ Glad to see you're reading me</h1>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rainytomorrow&theme=nightowl)](https://git.io/streak-stats)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RainyTomorrow&theme=vue-dark&show_icons=true&locale=en" alt="RainyTomorrow" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RainyTomorrow&theme=vue-dark&show_icons=true&locale=en&layout=compact" alt="RainyTomorrow" /></p>
-
 <br/>
 </p>
 
